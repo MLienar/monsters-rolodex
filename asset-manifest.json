@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mlienar.github.io/monsters-rolodex/static/css/main.c090aada.chunk.css",
+    "main.js": "/mlienar.github.io/monsters-rolodex/static/js/main.02669a5f.chunk.js",
+    "main.js.map": "/mlienar.github.io/monsters-rolodex/static/js/main.02669a5f.chunk.js.map",
+    "runtime-main.js": "/mlienar.github.io/monsters-rolodex/static/js/runtime-main.ca0043b8.js",
+    "runtime-main.js.map": "/mlienar.github.io/monsters-rolodex/static/js/runtime-main.ca0043b8.js.map",
+    "static/js/2.4ae214a8.chunk.js": "/mlienar.github.io/monsters-rolodex/static/js/2.4ae214a8.chunk.js",
+    "static/js/2.4ae214a8.chunk.js.map": "/mlienar.github.io/monsters-rolodex/static/js/2.4ae214a8.chunk.js.map",
+    "static/js/3.9fb4beb9.chunk.js": "/mlienar.github.io/monsters-rolodex/static/js/3.9fb4beb9.chunk.js",
+    "static/js/3.9fb4beb9.chunk.js.map": "/mlienar.github.io/monsters-rolodex/static/js/3.9fb4beb9.chunk.js.map",
+    "index.html": "/mlienar.github.io/monsters-rolodex/index.html",
+    "static/css/main.c090aada.chunk.css.map": "/mlienar.github.io/monsters-rolodex/static/css/main.c090aada.chunk.css.map",
+    "static/js/2.4ae214a8.chunk.js.LICENSE.txt": "/mlienar.github.io/monsters-rolodex/static/js/2.4ae214a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca0043b8.js",
+    "static/js/2.4ae214a8.chunk.js",
+    "static/css/main.c090aada.chunk.css",
+    "static/js/main.02669a5f.chunk.js"
+  ]
+}
